@@ -1,6 +1,6 @@
 # gloom
 ki rapper | modules:
-textgen / flowgen / voicegen
+**textgen** / **flowgen** / **voicegen**
 
 example (current implementation): https://soundcloud.com/user-546862337/sets/fg-1
 
