@@ -1,0 +1,16 @@
+
+_
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(±ÏîÅøÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( â½Ý
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+9
+java:S1148["#Use a logger to log this exception.(Ç’Çê
+a
+java:S1128"FRemove this unused import 'java.util.concurrent.atomic.AtomicBoolean'.(§­‹¼üÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Û™Ø
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ã×™¬úÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(àô…ìÿÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ÌÀÊˆüÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(‘Æ³ýûÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(êœç²ùÿÿÿÿ
